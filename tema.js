@@ -1,3 +1,3 @@
 /* kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi Nonkomersial Maliki Studio: wajib kredit, dilarang dijual (lihat LICENSE). */
 /* TEMA — diubah otomatis oleh customizer Maliki Studio */
-window.TEMA = { nama: "Studio Rakit Kreatif", mode: "terang" }; // mode: "terang" | "gelap" | "auto"
+window.TEMA = { nama: "TM Studio", mode: "terang" }; // mode: "terang" | "gelap" | "auto"
